@@ -32,5 +32,10 @@ Run the model
 
 ## User Interface and Results
 
+![img](https://github.com/kirpalsingh225/MultiLanguage-Invoice-Extractor/blob/main/assets/ui.png)
+
+## Response
+![img](https://github.com/kirpalsingh225/MultiLanguage-Invoice-Extractor/blob/main/assets/result.png)
+
 
 
